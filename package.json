@@ -1,0 +1,12 @@
+{
+  "name": "sqltoy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-sql-parser": "^4.0.3",
+    "pegjs": "^0.10.0",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.2"
+  }
+}
